@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+    <string name="action_settings">Settings</string>
+    <string name="shoppingTitle">Browse Products</string>
+    <string name="shoppingSubtitle">Please add any product to the cart</string>
+    <string name="addButton">SNEAKERS</string>
+    <string name="Added">Added</string>
+    <string name="AddedTitle">Products Added</string>
+    <string name="shopping">Shopping</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="about">About</string>
+</resources>
